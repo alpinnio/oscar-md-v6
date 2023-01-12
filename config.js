@@ -23,12 +23,12 @@ global.sgc = "https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL"
 global.location = "Jatim" //ur location
 
 //bot bomdy 
-global.owner = ['6285850539404'] //ur number
-global.ownernomer = "6285850539404" //ur number
-global.ownertag = '6285850539404' //ur tag number
-global.premium = ['6285850539404'] //ur premium number
-global.botname = '𝘖𝘴𝘤𝘢𝘳-𝘔𝘥' //ur bot name
-global.ownername = "𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤"
+global.owner = ['628989513496'] //ur number
+global.ownernomer = "628989513496" //ur number
+global.ownertag = '628989513496' //ur tag number
+global.premium = ['628989513496'] //ur premium number
+global.botname = 'Neko-Bot' //ur bot name
+global.ownername = "Bang FD"
 global.linkz = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //your theme url which will be displayed on whatsapp
 global.dana = "6285850539404"
 global.pulsa = "6285850539404"
