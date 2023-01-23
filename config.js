@@ -14,31 +14,31 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['628989513496'] //ur owner number
-global.ownername = "Bang FD" //ur owner name
-global.developer = "Bang FD" //nama lu
-global.ytname = "YT: Jarot offc" //ur yt chanel name
-global.socialm = "https://instagram.com/jarotr_" //ur github or insta name
+global.vcardowner = ['6288210072756'] //ur owner number
+global.ownername = "Luxxy4K" //ur owner name
+global.developer = "Luxxy4K" //nama lu
+global.ytname = "YT: LuxxyVFX" //ur yt chanel name
+global.socialm = "https://instagram.com/luxxyact" //ur github or insta name
 global.sgc = "https://chat.whatsapp.com/IqZke0cAG69myfL"
-global.location = "Jatim" //ur location
+global.location = "Jaktim" //ur location
 
 //bot bomdy 
-global.owner = ['628989513496'] //ur number
-global.ownernomer = "628989513496" //ur number
-global.ownertag = '628989513496' //ur tag number
-global.premium = ['628989513496'] //ur premium number
-global.botname = 'Neko-Bot' //ur bot name
-global.ownername = "Bang FD"
+global.owner = ['6288210072756'] //ur number
+global.ownernomer = "6288210072756" //ur number
+global.ownertag = '-' //ur tag number
+global.premium = ['6288210072756'] //ur premium number
+global.botname = 'LuccyBot' //ur bot name
+global.ownername = "Luxxy4K"
 global.linkz = "https://youtube.com/@fuadxyro5248" //your theme url which will be displayed on whatsapp
-global.dana = "6285850539404"
-global.pulsa = "6285850539404"
-global.websitex = "https://youtube.com/@fuadxyro5248" //ur website to be displayed
-global.websitex1 = "https://youtube.com/shorts/N6cPd_V-IME?feature=share"
-global.botscript = 'https://youtube.com/@fuadxyro5248' //script link
+global.dana = "6288210072756"
+global.pulsa = "6288210072756"
+global.websitex = "-" //ur website to be displayed
+global.websitex1 = "-"
+global.botscript = '-' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Neko-Bot" //ur sticker watermark author
-global.wm = "Bang FD" //ur watermark
+global.author = "LuccyBot" //ur sticker watermark author
+global.wm = "Luxxy4K" //ur watermark
 
 // Other
 global.sessionName = 'Session'
@@ -59,7 +59,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 25
+    free: 10
 }
 global.thum = fs.readFileSync("./Media/theme/jarot.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./Media/theme/jarot.jpg") //ur logo pic
